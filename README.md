@@ -9,21 +9,27 @@
 
 ## Files and Folders
 
-### main.ipynb
-- Contains solutions to all questions except the command line question.
-- Utilizes images from the 'img' folder.
+### `main.ipynb`
+> Contains solutions to all questions except the command line question.
+> Utilizes images from the 'img' folder.
 
 ### Command Line Folder
-This folder contains the command line-related solution.
+> This folder contains the command line-related solution.
 
-#### CommandLine.sh
-- Bash code file providing the solution to the Command Line Question.
+* #### `CommandLine.sh`
+    > Bash code file providing the solution to the Command Line Question.
 
-#### Output.png
-- Shows the result/output of the CommandLine.sh script.
+* #### `Output.png`
+    > Shows the result/output of the CommandLine.sh script.
+
+* #### `README.md`
+    > Contains explanation of the script
 
 ### img Folder
-- Contains images utilized in the main.ipynb file.
+> Contains images utilized in the main.ipynb file.
 
-#### question3.jpg
-- Used in Markdown to illustrate the working principle of the New Score function for Question 3.
+* #### `question_3.jpg`
+    > Used in Markdown to illustrate the working principle of the New Score function for Question 3.
+
+* #### `question_4_output.png`
+    > Screenshot of the map from output of Question 4
